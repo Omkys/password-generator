@@ -159,7 +159,7 @@ generateBtn.addEventListener('click', () => {
     // if(uppercaseCheck.checked) {
     //     password += generateUpperCase();
     // }
-
+//console.log("hello om")
     // if(lowercaseCheck.checked) {
     //     password += generateLowerCase();
     // }
